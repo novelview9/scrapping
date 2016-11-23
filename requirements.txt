@@ -1,0 +1,3 @@
+ipython[all]
+beautifulsoup4
+selenium
